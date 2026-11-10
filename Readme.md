@@ -2,7 +2,7 @@ You can create a new local Windows 11 user directly using CMD.
 
 
 
-\### 1. Create a new user
+### 1. Create a new user
 
 
 
@@ -22,7 +22,7 @@ Windows will prompt you to enter and confirm a password (it won't display while 
 
 
 
-\### 2. Give administrator privileges
+### 2. Give administrator privileges
 
 
 
@@ -34,7 +34,7 @@ net localgroup Administrators Vishwajeet /add
 
 
 
-\### 3. Verify the account
+### 3. Verify the account
 
 
 
@@ -46,7 +46,7 @@ net user Vishwajeet
 
 
 
-\### 4. Sign in
+### 4. Sign in
 
 
 
